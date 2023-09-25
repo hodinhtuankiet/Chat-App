@@ -5,12 +5,12 @@ import { getFirestore } from "firebase/firestore";
 import { getStorage } from "firebase/storage"; // Import getStorage function for Firebase Storage
 
 const firebaseConfig = {
-  apiKey: "your-api-key",
-  authDomain: "your-auth-domain",
-  projectId: "your-project-id",
-  storageBucket: "your-storage-bucket",
-  messagingSenderId: "your-messaging-sender-id",
-  appId: "your-app-id"
+  apiKey: "AIzaSyAYTbvxl6_OTBTEda-5akDVBpomIyJh4PQ",
+  authDomain: "chat-app-5f6c1.firebaseapp.com",
+  projectId: "chat-app-5f6c1",
+  storageBucket: "chat-app-5f6c1.appspot.com",
+  messagingSenderId: "521508415051",
+  appId: "1:521508415051:web:fb391349615a2472908fce"
 };
 
 // Initialize Firebase

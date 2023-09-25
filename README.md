@@ -1,3 +1,4 @@
+tsc --> find files js then combine to ts 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
